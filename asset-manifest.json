@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/skill-exchange-project/static/css/main.397ae656.css",
+    "main.js": "/skill-exchange-project/static/js/main.898a9177.js",
+    "static/js/453.6bc0dffc.chunk.js": "/skill-exchange-project/static/js/453.6bc0dffc.chunk.js",
+    "index.html": "/skill-exchange-project/index.html",
+    "main.397ae656.css.map": "/skill-exchange-project/static/css/main.397ae656.css.map",
+    "main.898a9177.js.map": "/skill-exchange-project/static/js/main.898a9177.js.map",
+    "453.6bc0dffc.chunk.js.map": "/skill-exchange-project/static/js/453.6bc0dffc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.397ae656.css",
+    "static/js/main.898a9177.js"
+  ]
+}
